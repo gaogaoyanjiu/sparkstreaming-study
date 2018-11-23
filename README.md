@@ -45,3 +45,40 @@ Spark，Scala，Python，Spark Streaming，SparkSQL，MLlib，GraphX，IndexedRD
 最后
 
 希望以上10个教程可以帮助想入门Spark的人，入门之后，你自然会知道如何让自己的技术更上一层楼，也自然会有意无意去收集整理Spark学习资源和资料，因此这里就不多介绍了。
+
+
+不错的Spark在线教程
+
+
+第一节 Spark 1.5.0集群搭建
+https://blog.csdn.net/lovehuangjiaju/article/details/48494737
+第二节 Hadoop、Spark生成圈简介
+https://blog.csdn.net/lovehuangjiaju/article/details/48573413
+第三节 Spark Intellij IDEA开发环境搭建
+https://blog.csdn.net/lovehuangjiaju/article/details/48577281
+第四节 Spark编程模型(一) 
+https://blog.csdn.net/lovehuangjiaju/article/details/48580863
+第五节 Spark编程模型(二)
+https://blog.csdn.net/lovehuangjiaju/article/details/48603009
+第六节 Spark编程模型（三) 
+https://blog.csdn.net/lovehuangjiaju/article/details/48622757
+第七节 Spark运行原理 
+https://blog.csdn.net/lovehuangjiaju/article/details/48634607
+第八节 Spark SQL与DataFrame（一）
+https://blog.csdn.net/lovehuangjiaju/article/details/48661847
+第九节 Spark SQL运行流程解析 
+https://blog.csdn.net/lovehuangjiaju/article/details/50439715
+第十节 Spark Streaming（一）
+https://blog.csdn.net/lovehuangjiaju/article/details/49965857
+第十一节 Spark Streaming—— DStream Transformation操作 
+https://blog.csdn.net/lovehuangjiaju/article/details/50042621
+第十二节 Spark Streaming—— DStream Window操作 
+https://blog.csdn.net/lovehuangjiaju/article/details/50095491
+第十三节 Spark Streaming—— Spark SQL、DataFrame与Spark Streaming 
+https://blog.csdn.net/lovehuangjiaju/article/details/50096995
+第十四节 Spark Streaming 缓存、Checkpoint机制
+https://blog.csdn.net/lovehuangjiaju/article/details/50102831
+第十五节 Kafka 0.8.2.1 集群搭建
+https://blog.csdn.net/lovehuangjiaju/article/details/50143325
+第十六节 Spark Streaming与Kafka 
+https://blog.csdn.net/lovehuangjiaju/article/details/50166647
